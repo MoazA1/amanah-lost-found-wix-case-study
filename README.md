@@ -41,7 +41,7 @@ Wix Studio
 ![Admin Dashboard](listeditems.jpg)
 
 ### Mobile View
-![Mobile View](mobileView.jpg)
+![Mobile View](mobileView1.jpg)
 ![Mobile View](mobileView2.jpg)
 
 ## Key Learnings
