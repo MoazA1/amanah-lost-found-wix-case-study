@@ -35,6 +35,7 @@ Wix Studio
 
 ### Home Page
 ![Home Page](home.jpg)
+-------------------------
 ![Home Page](home2.jpg)
 
 ### Listed Items Page
@@ -42,6 +43,7 @@ Wix Studio
 
 ### Mobile View
 ![Mobile View](mobileView1.jpg)
+-------------------------
 ![Mobile View](mobileView2.jpg)
 
 ## Key Learnings
