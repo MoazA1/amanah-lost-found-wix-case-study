@@ -37,14 +37,14 @@ Wix Studio
 ![Home Page](home.jpg)
 -------------------------
 ![Home Page](home2.jpg)
-
+-------------------------
 ### Listed Items Page
 ![Admin Dashboard](listeditems.jpg)
-
+-------------------------
 ### Mobile View
 ![Mobile View](mobileView1.jpg)
 -------------------------
 ![Mobile View](mobileView2.jpg)
-
+-------------------------
 ## Key Learnings
 This project strengthened my ability to design user-centered systems, structure workflows for both users and administrators, and implement practical features such as notification systems and moderation tools.
