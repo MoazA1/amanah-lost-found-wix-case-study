@@ -29,9 +29,7 @@ Amanah provides a unified platform where users can report and browse items, whil
 - Responsive and user-friendly interface
 
 ## Tools Used
-Wix Studio  
-Figma  
-CapCut  
+Wix Studio   
 
 ## Screenshots
 
