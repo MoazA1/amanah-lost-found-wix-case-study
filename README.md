@@ -31,7 +31,7 @@ Amanah provides a unified platform where users can report and browse items, whil
 ## Tools Used
 Wix Studio   
 
-## Screenshots
+## Brief Screenshots
 
 ### Home Page
 ![Home Page](home.jpg)
