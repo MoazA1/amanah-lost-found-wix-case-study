@@ -34,13 +34,15 @@ Wix Studio
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
+![Home Page](home2.png)
 
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
+### Listed Items Page
+![Admin Dashboard](listeditems.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
+![Mobile View](mobileView.png)
+![Mobile View](mobileView2.png)
 
 ## Key Learnings
 This project strengthened my ability to design user-centered systems, structure workflows for both users and administrators, and implement practical features such as notification systems and moderation tools.
